@@ -1,0 +1,32 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Python / Notebooks (if any get added)
+__pycache__/
+.ipynb_checkpoints/
+
+# Build artifacts
+dist/
+build/
+_site/
+*.pdf
+*.docx
+*.epub
+
+# Archives
+*.zip
+
+# Cache
+.cache/
+.mypy_cache/
+.pytype/
+.pyre/
+
+# Figures (keep source, ignore heavy renders if desired)
+figures/rendered/
