@@ -21,3 +21,7 @@ Every chapter ends with 3–5 falsifiable predictions.
 ## PR Process
 - Branch off `main`: `feature/chapter-name`
 - Small PRs (<500 lines) with a clear summary.
+
+
+## Style Guide
+See **STYLE_GUIDE_Compusition.md** for prose rules (E-prime + attribution, gradients over binaries, forward motion, rhythm, no bullets in manuscript text).
